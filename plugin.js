@@ -1,5 +1,5 @@
 import Vue from "vue";
-import CloudinaryImage from "vue-cloudinary-image";
+import CloudinaryImage from "@teamnovu/vue-cloudinary-image";
 
 let options = JSON.parse(`<%= JSON.stringify(options) %>`);
 

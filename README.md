@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-npm i vue-cloudinary-image
+npm i @teamnovu/vue-cloudinary-image
 ```
 
 ## Setup
@@ -24,4 +24,4 @@ npm i vue-cloudinary-image
 
 ## Documentation
 
-This is a wrapper library. Please check out the full documentation here: [vue-cloudinary-image](https://www.npmjs.com/package/vue-cloudinary-image)
+This is a wrapper library. Please check out the full documentation here: [@teamnovu/vue-cloudinary-image](https://www.npmjs.com/package/@teamnovu/vue-cloudinary-image)
