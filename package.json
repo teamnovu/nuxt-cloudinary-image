@@ -2,6 +2,7 @@
   "name": "@teamnovu/nuxt-cloudinary-image",
   "version": "0.0.1",
   "description": "A cloudinary image component plugin for nuxt",
+  "repository": "teamnovu/nuxt-cloudinary-image",
   "private": false,
   "main": "module.js",
   "license": "MIT",
