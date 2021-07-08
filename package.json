@@ -1,6 +1,6 @@
 {
   "name": "@teamnovu/nuxt-cloudinary-image",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "A cloudinary image component plugin for nuxt",
   "repository": "teamnovu/nuxt-cloudinary-image",
   "private": false,
@@ -10,7 +10,7 @@
     "release": "standard-version && git push --follow-tags && npm publish"
   },
   "dependencies": {
-    "@teamnovu/vue-cloudinary-image": "0.0.7",
+    "@teamnovu/vue-cloudinary-image": "0.0.8",
     "path": "^0.12.7"
   },
   "devDependencies": {
