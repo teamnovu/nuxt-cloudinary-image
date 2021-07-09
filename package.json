@@ -10,7 +10,7 @@
     "release": "standard-version && git push --follow-tags && npm publish"
   },
   "dependencies": {
-    "@teamnovu/vue-cloudinary-image": "0.0.9",
+    "@teamnovu/vue-cloudinary-image": "0.0.10",
     "path": "^0.12.7"
   },
   "devDependencies": {
