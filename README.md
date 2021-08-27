@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-npm i @teamnovu/vue-cloudinary-image
+npm i @teamnovu/nuxt-cloudinary-image
 ```
 
 ## Setup
