@@ -15,8 +15,12 @@ npm i @teamnovu/nuxt-cloudinary-image
 ```javascript
 {
   modules: [
-    ['@teamnovu/nuxt-cloudinary-image', { cloudinaryBaseUrl: 'https://res.cloudinary.com/<your-cloud-name>/image/upload/' }],
+    '@teamnovu/nuxt-cloudinary-image',
   ],
+
+  cloudinaryImage: {
+    cloudinaryBaseUrl: 'https://res.cloudinary.com/<your-cloud-name>/image/upload/' }
+  }
 }
 ```
 
