@@ -3,6 +3,10 @@
 ## Installation
 
 ```shell
+// yarn
+yarn add @teamnovu/nuxt-cloudinary-image
+
+// npm
 npm i @teamnovu/nuxt-cloudinary-image
 ```
 
