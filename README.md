@@ -19,7 +19,7 @@ npm i @teamnovu/nuxt-cloudinary-image
   ],
 
   cloudinaryImage: {
-    cloudinaryBaseUrl: 'https://res.cloudinary.com/<your-cloud-name>/image/upload/' }
+    cloudinaryBaseUrl: 'https://res.cloudinary.com/<your-cloud-name>/image/upload/'
   }
 }
 ```
