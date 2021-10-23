@@ -1,6 +1,6 @@
 {
   "name": "@teamnovu/nuxt-cloudinary-image",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "A cloudinary image component plugin for nuxt",
   "repository": "teamnovu/nuxt-cloudinary-image",
   "private": false,
