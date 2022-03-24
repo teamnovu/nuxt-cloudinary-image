@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/teamnovu/nuxt-cloudinary-image/compare/v1.0.0...v2.0.0) (2022-03-24)
+
 ## [1.0.0](https://github.com/teamnovu/nuxt-cloudinary-image/compare/v0.0.21...v1.0.0) (2022-03-14)
 
 ### [0.0.21](https://github.com/teamnovu/nuxt-cloudinary-image/compare/v0.0.20...v0.0.21) (2021-10-24)
